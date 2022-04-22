@@ -22,6 +22,6 @@ It is completely responsive website, to provide smooth experience...😎
 ![](mobileView.png)  
 
 Try this out::  
-https://shivanshu22-ui.github.io/educode/
+https://frieden07.github.io/edu-code/
 
 If you like my project, give it a star  😁😁😁
